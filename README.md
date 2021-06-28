@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ERP/Microservice (Java 8,11/Spring-Boot)
+- 🔭 I’m currently working on Microservice (Java 8,11/Spring-Boot)
 - 🌱 I’m currently learning about AWS, Apache Kafka and other cloud technologies 
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with technical content blogging
